@@ -6,8 +6,14 @@ $\lVert d  \rVert$ is miscalculated for some questions due to the transformation
 
 In case of any noticed errors, feel free to DM me on
 
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/nordin-shafiq)
+&nbsp; [![Telegram](https://i.imgur.com/qQPCAw4.png) Telegram](https://t.me/nordin_iv)
 
-<a href="https://www.linkedin.com/in/nordin-shafiq/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> <a href="https://t.me/nordin_iv"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
-" alt="Telegram"/></a>
+## Future work:
+- CASIO Calculator methods and commands
+- L2 norm miscalculations
+- Simple iteration method
+- Systems of equations methods (Gauss-Jacobi, Gauss-Seidel, SOR)
+- Taylor's method for ODE
 
 #### Under supervision of Eng. Mahmoud Khatab.
