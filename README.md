@@ -17,6 +17,6 @@ In case of any noticed errors, please contact me 📞
 - Simple iteration method
 - Systems of equations methods (Gauss-Jacobi, Gauss-Seidel, SOR)
 - Taylor's method for ODE
-- Implementation using SciPy and SymPy
+- Implementation using SciPy, SymPy, and Latexify
 
 #### Under supervision of Eng. Mahmoud Khatab.
